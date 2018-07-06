@@ -1,4 +1,6 @@
 # simple-json-server
+[Find Git Here](https://github.com/gsmithun4/simple-json-server)
+Inspired from [json-server](https://www.npmjs.com/package/json-server). `json-server` not supporing to get data on post request.`simple-json-server` gives the configured response data for any type of requests.
 ## Installation
 ```
 npm install -g simple-json-server
