@@ -1,6 +1,6 @@
 {
     "name": "simple-json-server",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Standalone Json Server For REST Api Testing",
     "main": "./lib/index.js",
     "homepage": "https://github.com/gsmithun4/simple-json-server#readme",
