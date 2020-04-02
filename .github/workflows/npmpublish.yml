@@ -20,4 +20,4 @@ jobs:
       - run: npm run minify
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.npm_token_6d}}
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
